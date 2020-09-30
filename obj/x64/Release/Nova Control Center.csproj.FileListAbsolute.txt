@@ -1,0 +1,90 @@
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\Nova Control Center.exe.config
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\Nova Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\FluentWPF.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\System.Management.Automation.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\Windows.winmd
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\System.Management.Automation.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Nova Control Center.csprojAssemblyReference.cache
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\MainWindow.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Resource_Dictionary\Bluetooth_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Resource_Dictionary\ButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Resource_Dictionary\Display_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Resource_Dictionary\Webcam_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Resource_Dictionary\WiFi_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\App.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\MainWindow.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\App.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Nova Control Center_MarkupCompile.cache
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Nova Control Center_MarkupCompile.lref
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Resource_Dictionary\Brightness_SliderStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Resource_Dictionary\NotifyIconResources.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Nova Control Center.g.resources
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Nova Control Center.csproj.CopyComplete
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Release\Nova Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\Nova Control Center.exe.config
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\Nova Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\FluentWPF.dll
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\System.Management.Automation.dll
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\Windows.winmd
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\System.Management.Automation.xml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\bin\x64\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\MainWindow.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Resource_Dictionary\Bluetooth_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Resource_Dictionary\ButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Resource_Dictionary\Display_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Resource_Dictionary\Webcam_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Resource_Dictionary\WiFi_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\App.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\MainWindow.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\App.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Nova Control Center_MarkupCompile.cache
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Nova Control Center_MarkupCompile.lref
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Resource_Dictionary\Brightness_SliderStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Resource_Dictionary\NotifyIconResources.baml
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Nova Control Center.g.resources
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Nova Control Center.csproj.CopyComplete
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Nova Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Nova Control Center\obj\x64\Release\Nova Control Center.csprojAssemblyReference.cache
+E:\New folder\Application\Nova Control Center\bin\x64\Release\Nova Control Center.exe.config
+E:\New folder\Application\Nova Control Center\bin\x64\Release\Nova Control Center.exe
+E:\New folder\Application\Nova Control Center\bin\x64\Release\FluentWPF.dll
+E:\New folder\Application\Nova Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.dll
+E:\New folder\Application\Nova Control Center\bin\x64\Release\System.Management.Automation.dll
+E:\New folder\Application\Nova Control Center\bin\x64\Release\System.Runtime.WindowsRuntime.dll
+E:\New folder\Application\Nova Control Center\bin\x64\Release\Windows.winmd
+E:\New folder\Application\Nova Control Center\bin\x64\Release\Microsoft.Management.Infrastructure.dll
+E:\New folder\Application\Nova Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\New folder\Application\Nova Control Center\bin\x64\Release\Hardcodet.Wpf.TaskbarNotification.xml
+E:\New folder\Application\Nova Control Center\bin\x64\Release\System.Management.Automation.xml
+E:\New folder\Application\Nova Control Center\bin\x64\Release\System.Runtime.WindowsRuntime.xml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\MainWindow.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Resource_Dictionary\Bluetooth_ToggleButtonStyle.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Resource_Dictionary\ButtonStyle.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Resource_Dictionary\Display_ToggleButtonStyle.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Resource_Dictionary\Webcam_ToggleButtonStyle.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Resource_Dictionary\WiFi_ToggleButtonStyle.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\App.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\MainWindow.g.cs
+E:\New folder\Application\Nova Control Center\obj\x64\Release\App.g.cs
+E:\New folder\Application\Nova Control Center\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Nova Control Center_MarkupCompile.cache
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Nova Control Center_MarkupCompile.lref
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Resource_Dictionary\Brightness_SliderStyle.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Resource_Dictionary\NotifyIconResources.baml
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Nova Control Center.g.resources
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Nova Control Center.csproj.CopyComplete
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Nova Control Center.exe
+E:\New folder\Application\Nova Control Center\obj\x64\Release\Nova Control Center.csprojAssemblyReference.cache

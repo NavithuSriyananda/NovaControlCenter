@@ -1,0 +1,34 @@
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Nova Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\FluentWPF.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Nova Control Center.exe.config
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Nova Control Center.pdb
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\System.Management.Automation.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Windows.winmd
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\System.Management.Automation.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\x64\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Control Center.csprojAssemblyReference.cache
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\MainWindow.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Resource_Dictionary\Bluetooth_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Resource_Dictionary\ButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Resource_Dictionary\Display_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Resource_Dictionary\Webcam_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Resource_Dictionary\WiFi_ToggleButtonStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\App.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\App.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Nova Control Center_MarkupCompile.cache
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Nova Control Center_MarkupCompile.lref
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Resource_Dictionary\Brightness_SliderStyle.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Resource_Dictionary\NotifyIconResources.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Nova Control Center.g.resources
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Nova_Control_Center.Properties.Resources.resources
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Control Center.csproj.GenerateResource.cache
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Control Center.csproj.CopyComplete
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Nova Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\x64\Debug\Nova Control Center.pdb

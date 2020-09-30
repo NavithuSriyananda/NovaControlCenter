@@ -1,0 +1,26 @@
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\MainWindow.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\App.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control Center_MarkupCompile.cache
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control Center_MarkupCompile.lref
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\MainWindow.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control Center.pdb
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Control Center.exe.config
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Control Center.exe
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Control Center.pdb
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\FluentWPF.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\System.Management.Automation.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Windows.winmd
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\System.Management.Automation.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Resource_Dictionary\NotifyIconResources.baml
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control Center.g.resources
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control_Center.Properties.Resources.resources
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control Center.csproj.GenerateResource.cache
+C:\Users\Navithu Sriyananda\Desktop\Control Center\obj\Debug\Control Center.csproj.CopyComplete

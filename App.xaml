@@ -1,0 +1,22 @@
+﻿<Application x:Class="Control_Center.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             ShutdownMode="OnExplicitShutdown">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resource_Dictionary/NotifyIconResources.xaml"/>
+
+                <!--  FluentWPF Controls  -->
+                <ResourceDictionary Source="pack://application:,,,/FluentWPF;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="Resource_Dictionary/ButtonStyle.xaml"/>
+                <ResourceDictionary Source="Resource_Dictionary/WiFi_ToggleButtonStyle.xaml"/>
+                <ResourceDictionary Source="Resource_Dictionary/Bluetooth_ToggleButtonStyle.xaml"/>
+                <ResourceDictionary Source="Resource_Dictionary/Display_ToggleButtonStyle.xaml"/>
+                <ResourceDictionary Source="Resource_Dictionary/Webcam_ToggleButtonStyle.xaml"/>
+                <ResourceDictionary Source="Resource_Dictionary/Brightness_sliderStyle.xaml"/>
+                <ResourceDictionary Source="Resource_Dictionary/Brightness_sliderStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
